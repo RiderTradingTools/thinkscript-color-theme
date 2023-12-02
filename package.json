@@ -1,0 +1,21 @@
+{
+  "name": "thinkscript-color-theme",
+  "displayName": "thinkscript color theme",
+  "description": "",
+  "version": "1.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "thinkscript-editor",
+        "uiTheme": "vs-dark",
+        "path": "./themes/thinkscript-editor-color-theme.json"
+      }
+    ]
+  }
+}
