@@ -3,15 +3,20 @@
   "displayName": "thinkscript color theme",
   "publisher": "Rider Trading Tools",
   "description": "A color theme for the thinkscript language",
-  "homepage": "https://github.com/RiderTradingTools/thinkscript-color-theme",
   "icon": "images/thinkorswim.png",
   "version": "1.0.1",
   "engines": {
     "vscode": "^1.80.0"
   },
+  "pricing": "Free",  
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RiderTradingTools/thinkscript-color-theme"
+  },
+  "homepage": "https://github.com/RiderTradingTools/thinkscript-color-theme",
   "contributes": {
     "themes": [
       {
