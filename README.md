@@ -1,10 +1,16 @@
 
 <p align="center"> <img src="images/thinkorswim.png"> </p>
-<h2  align="center"> thinkscript-color-theme </h2> 
+<h1  align="center"> thinkscript color theme </h1> 
 
 
-A color theme for the thinkscript language, this resembles the thinkorswim editor colors, but with more distinction for reserved words, functions, and more.
+A color theme dedicated for the thinkscript language, this resembles the thinkorswim editor colors but with more distinction of reserved words, functions, numbers, etc.
 
+---
+### Sample Screenshot
+![sample screenshot](images/example_ts_color_theme.png)
+
+### A side-by-side Screenshot
+![side-by-side example](images/side-by-side_example.png)
 ---
 
 ### Contributions
