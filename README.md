@@ -21,3 +21,8 @@ A color theme dedicated for the thinkscript language, this resembles the thinkor
 
 ### Version 
 - *1.0.1*
+
+- ---
+#### Disclaimer
+Not affiliated in any way, shape or form (other than a client) of Charles Schwab or TD Ameritrade.
+
