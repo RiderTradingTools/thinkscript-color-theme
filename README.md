@@ -1,5 +1,5 @@
 
-<p align="center"> <img src="https://ridertradingtools.com/wp-content/uploads/2023/12/thinkorswim.png"> </p>
+<p align="center"> <img src="https://ridertradingtools.com/images/thinkorswim.png" alt="thinkorswim logo"> </p>
 <h1  align="center"> thinkscript color theme </h1> 
 
 
@@ -7,10 +7,10 @@ A color theme dedicated for the thinkscript language, this resembles the thinkor
 
 ---
 ### Sample Screenshot
-<img src="https://ridertradingtools.com/wp-content/uploads/2023/12/example_ts_color_theme.png">
+<img src="https://ridertradingtools.com/images/example_ts_color_theme.png" alt="example color theme screenshot">
 
 ### A side-by-side Screenshot
-<img src="https://ridertradingtools.com/wp-content/uploads/2023/12/side-by-side_example.png">
+<img src="https://ridertradingtools.com/images/side-by-side_example.png" alt="side-by-side editor example">
 
 ---
 
@@ -21,7 +21,7 @@ A color theme dedicated for the thinkscript language, this resembles the thinkor
 ---
 
 ### Version 
-- *1.0.1*
+- *1.0.2*
 
 - ---
 #### Disclaimer
